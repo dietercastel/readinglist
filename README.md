@@ -6,3 +6,4 @@ The readinglist is divided into topics:
 - [Nuclear Fission](./nuclearfission.md)
 - [Nuclear Fusion](./nuclearfusion.md)
 - [Solar](./solar.md)
+- [Power Storage Technology](./storage.md)
