@@ -2,6 +2,7 @@
 
 ## Gravity-fed energy storage: 
 - https://www.gravitricity.com/
+- https://www.aresnorthamerica.com/ares-performance
 
 ## Pumped-hydroelectric energy storage
 
