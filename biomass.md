@@ -5,7 +5,7 @@
 - Coal plants can be converted into biomass plants.
 - Biomass is sometimes considered C02 neutral but that only if you consider the following:
 - An actual replanting and forestial maintenance has to be planned and executed over the course of 20 year since at least 20 years time required for forest to regrow to counteract the C02 emissions.
-- This claim also often doesn't take into account negative feedback loops (that would require much more forest to counteract the massive negative C02 emissions).ß
+- This claim also often doesn't take into account negative feedback loops (that would require much more forest to counteract the massive negative C02 emissions).
 - Burning biomass actually outputs more C02 per energy unit than fossil fuels (see [C02 output])
 
 - Forests are invaluable ecosystems.
