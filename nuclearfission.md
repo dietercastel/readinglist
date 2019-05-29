@@ -5,6 +5,7 @@
 - https://www.forbes.com/sites/michaelshellenberger/2018/10/29/top-climate-scientists-warn-governments-of-blatant-anti-nuclear-bias-in-latest-ipcc-climate-report/#649a2c0f3973
 - https://www.reddit.com/r/changemyview/comments/9u8dqv/cmv_nuclear_energy_is_the_only_short_term/
 - https://www.wired.com/2007/11/co-founder-of-greenpeace-envisions-a-nuclear-future/amp
+- https://hackaday.com/2019/05/29/atomic-power-gets-small/
 
 
 # NL
