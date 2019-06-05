@@ -6,7 +6,7 @@
 - https://www.reddit.com/r/changemyview/comments/9u8dqv/cmv_nuclear_energy_is_the_only_short_term/
 - https://www.wired.com/2007/11/co-founder-of-greenpeace-envisions-a-nuclear-future/amp
 - https://hackaday.com/2019/05/29/atomic-power-gets-small/
-
+- https://threadreaderapp.com/thread/1136023820245131264.html
 
 # NL
 - https://www.mo.be/interview/kernenergie-heeft-zich-altijd-al-gewenteld-stoutmoedige-dromen-tijd-om-realistisch-te
